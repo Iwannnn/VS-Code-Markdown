@@ -1,3 +1,9 @@
+<!--
+ * @Author: iwan
+ * @Description: 
+ * @Date: 2021-07-12 15:02:53
+ * @FilePath: \VS-Code-Markdown\summer holiday\diary.md
+-->
 # 2021/7/12
 
 ## STL
@@ -33,7 +39,24 @@
 看了看三种内存处理的方式```uninitialized_fill```，```unitialized_copy```,```unitialized_fill_n```。针对是不是```POD```做出为了效率和安全的不同操作。
 
 
-## 导师制
 
 # 2021/7/19
-玩了一天很舒服
+去上海玩了一天很舒服,人活着不就是为了明日香吗
+
+# 2021/7/20
+把登录的东西弄了个大概，登陆也是复杂的啊啊啊啊
+
+# 2021/7/21
+
+## session token cookie
+[彻底理解session token cookie](https://www.cnblogs.com/moyand/p/9047978.html)
+这篇文章感觉很八错，牛逼
+
+# 2021/7/28
+## backstage
+好几天没有记录了都没怎么写代码。
+
+最近把```layout```写了个大概知道了```vue```的组件该怎么使用,还有就是在```springboot```里面设置```tokenService```，对前端发来的请求进行进行拦截分析，把登陆的用户信息存储在```redis```里面，并且用```uuid```和一些关键字作为键来存储，同时根据```uuid```生成```token```，返回前端，每次拦截纠就分析这个```token```获取用户的信息。
+
+## 算法
+最近算法还是多写了点，```stl```的书没怎么看，影响比较深的就是一个八向搜索,还有就是树的问题不一定要把树建出来。还是只能做做简单的题啊，哎
